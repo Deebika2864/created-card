@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(13, 2, 35);
+}
+
+.card-custom {
+    transition: transform 0.2s;
+}
+
+.card-custom:hover {
+    transform: scale(1.05);
+}
